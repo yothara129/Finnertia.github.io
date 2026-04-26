@@ -62,10 +62,10 @@ export default function App() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 bg-emerald-600 rounded-lg flex items-center justify-center text-white font-black text-xl">
-                F
+                A
               </div>
               <h1 className="text-xl font-black tracking-tight text-slate-900">
-                Finnertia
+                AKM
               </h1>
             </div>
 
@@ -176,9 +176,9 @@ export default function App() {
             <div className="space-y-4">
               <div className="flex items-center gap-2">
                 <div className="w-8 h-8 bg-emerald-500 rounded-lg flex items-center justify-center text-slate-900 font-black text-xl">
-                  F
+                  A
                 </div>
-                <h3 className="text-xl font-bold tracking-tight">Finnertia</h3>
+                <h3 className="text-xl font-bold tracking-tight">AKM</h3>
               </div>
               <p className="text-slate-400 text-sm leading-relaxed">
                 Empowering Indian professionals with precise financial tools for wealth creation and debt management.
@@ -206,7 +206,7 @@ export default function App() {
           </div>
           
           <div className="flex flex-col md:flex-row justify-between items-center gap-6 text-sm text-slate-500">
-            <p>© 2026 Finnertia Labs. Built for Indian Professionals.</p>
+            <p>© 2026 AKM Labs. Built for Indian Professionals.</p>
             <div className="flex gap-8">
               <span className="hover:text-slate-300 cursor-pointer">Privacy Policy</span>
               <span className="hover:text-slate-300 cursor-pointer">Terms of Service</span>
